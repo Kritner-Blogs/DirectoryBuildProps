@@ -1,7 +1,10 @@
 <Project>
+    <PropertyGroup>
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    </PropertyGroup>
 
     <PropertyGroup>
-        <NuGet-Kritner-SolarProjection>1.0.2</NuGet-Kritner-SolarProjection>
+        <SomeOverrideVariable>1.0.1</SomeOverrideVariable>
     </PropertyGroup>
     
 </Project>

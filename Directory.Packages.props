@@ -1,0 +1,9 @@
+<Project>
+
+    <!-- 
+        Centrally managed repository nuget package versioning
+    -->
+    <ItemGroup>
+        <PackageVersion Include="Kritner.SolarProjection" Version="1.0.2" />
+    </ItemGroup>
+</Project>
