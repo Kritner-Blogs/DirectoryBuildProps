@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Kritner.SolarProjection" Version="$(NuGet-Kritner-SolarProjection)" />
+    <PackageReference Include="Kritner.SolarProjection" OverrideVersion="$(SomeOverrideVariable)" />
   </ItemGroup>
 
 </Project>
